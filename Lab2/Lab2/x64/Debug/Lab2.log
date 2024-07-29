@@ -1,0 +1,7 @@
+﻿  Lab2.cpp
+D:\UNIVERSITY\6 semestr\KG c++ GLFW\Code\Lab2\Lab2.cpp(68,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\UNIVERSITY\6 semestr\KG c++ GLFW\Code\Lab2\Lab2.cpp(69,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\UNIVERSITY\6 semestr\KG c++ GLFW\Code\Lab2\Lab2.cpp(72,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\UNIVERSITY\6 semestr\KG c++ GLFW\Code\Lab2\Lab2.cpp(73,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\UNIVERSITY\6 semestr\KG c++ GLFW\Code\Lab2\Lab2.cpp(96,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lab2.vcxproj -> D:\UNIVERSITY\6 semestr\KG c++ GLFW\Code\Lab2\x64\Debug\Lab2.exe
